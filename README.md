@@ -1,6 +1,6 @@
 # Entry Level Clinical Research Jobs
 
-**122 open entry level clinical research jobs: CRC, CTA, in-house CRA and study start-up roles at 51 US employers.** Checked 15 Oct 2026. 40 posted in the last 7 days. 29 at employers with a visa sponsorship record.
+**115 open entry level clinical research jobs: CRC, CTA, in-house CRA and study start-up roles at 46 US employers.** Checked 15 Oct 2026. 35 posted in the last 7 days. 29 at employers with a visa sponsorship record.
 
 For anyone breaking into clinical research without monitoring experience: clinical research coordinators (CRC), clinical trial assistants (CTA), in-house CRAs and CRA I roles, and study start-up and site activation roles. No senior, lead or manager titles.
 
@@ -8,9 +8,9 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 
 | List | Roles | Employers |
 | --- | --- | --- |
-| [Clinical research coordinator (CRC)](lists/crc.md) | 90 | 34 |
-| [Clinical trial assistant (CTA) and study assistant](lists/cta.md) | 11 | 9 |
-| [In-house CRA and CRA I](lists/in-house-cra.md) | 20 | 15 |
+| [Clinical research coordinator (CRC)](lists/crc.md) | 89 | 33 |
+| [Clinical trial assistant (CTA) and study assistant](lists/cta.md) | 12 | 10 |
+| [In-house CRA and CRA I](lists/in-house-cra.md) | 13 | 11 |
 | [Study start-up and site activation](lists/study-start-up.md) | 1 | 1 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
@@ -75,7 +75,6 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **ICON plc** | [Clinical Research Coordinator Nurse](https://trylitos.com/job/689d5efe-98e8-4e89-ada6-e1ecb027cc60?utm_source=github&utm_campaign=clinical-entry-crc) | US, Salisbury, NC |  | Sep 21 |  |
 | **University of Southern California** | [Research Coordinator II](https://trylitos.com/job/a2f5ac88-6f61-41c2-8a8c-d7974f0d7587?utm_source=github&utm_campaign=clinical-entry-crc) | Los Angeles, CA - Health Sciences Campus |  | Sep 21 |  |
 | **St. Luke's University Health Network** | [Clinical Research Coordinator I (PA/NJ Residents Only)](https://trylitos.com/job/0e028c64-7ecb-499c-aaa7-810343c28590?utm_source=github&utm_campaign=clinical-entry-crc) | Bethlehem, PA - 800 Ostrum St |  | Sep 18 |  |
-| **BMO** | [Research Coordinator - Global Markets](https://trylitos.com/job/3e6173c6-5fbd-4de1-babd-f7767eaa6ce6?utm_source=github&utm_campaign=clinical-entry-crc) | Toronto, ON, CAN |  | Sep 17 |  |
 | **Jefferson Health** | [Clinical Research Coordinator- PKPD (Evening Shift](https://trylitos.com/job/76c6319c-0cbe-4661-9509-41881caf93ff?utm_source=github&utm_campaign=clinical-entry-crc) | Philadelphia, PA |  | Sep 16 |  |
 | **Ann & Robert H. Lurie Children's Hospital of Chicago** | [Clinical Research Coordinator I-Center for Cancer and Blood Disorders](https://trylitos.com/job/ab08f248-d8c9-4c27-bbad-b79d45488966?utm_source=github&utm_campaign=clinical-entry-crc) | Streeterville, Chicago, IL |  | Sep 16 |  |
 | **Ann & Robert H. Lurie Children's Hospital of Chicago** | [Behavioral Research Coordinator I-Allergy/Adolescent Medicine](https://trylitos.com/job/6e288801-d388-4b97-9ad3-aecdb7160d8d?utm_source=github&utm_campaign=clinical-entry-crc) | Lincoln Park, Chicago, IL |  | Sep 11 |  |
@@ -116,18 +115,14 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Jefferson Health** | [Clinical Research Assistant - Per Diem/Zero Hour](https://trylitos.com/job/51fa7d88-b6b1-48ea-873f-cbae4292b56e?utm_source=github&utm_campaign=clinical-entry-cta) | Philadelphia, PA |  | Oct 8 |  |
 | **Research Foundation of CUNY** | [Clinical Research Assistant](https://trylitos.com/job/0e997de7-95f6-4cd3-aca8-806202ee44cb?utm_source=github&utm_campaign=clinical-entry-cta) | New York, NY |  | Oct 6 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Brown University Health** | [Clinical Research Assistant](https://trylitos.com/job/439580ad-c70e-47e2-aa3c-3830f98a0e42?utm_source=github&utm_campaign=clinical-entry-cta) | Brown Health Medical Group Primary Care; Rhod |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **IQVIA** | [Clinical Trial Assistant, HYBRID in Wilmington, DE](https://trylitos.com/job/b6a85a69-3e34-40c2-bd8a-bd7d32db5821?utm_source=github&utm_campaign=clinical-entry-cta) | Wilmington, DE, United States of America |  | Sep 28 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **University of Chicago** | [Clinical Research Assistant](https://trylitos.com/job/a770967c-38ed-4458-9be9-8f8a0988dd60?utm_source=github&utm_campaign=clinical-entry-cta) | Chicago, IL |  | Sep 24 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **CRISPR Therapeutics** | [Clinical Trial Associate](https://trylitos.com/job/7a2ed62f-996e-4eca-a950-18321865ad0c?utm_source=github&utm_campaign=clinical-entry-cta) | South Boston, MA |  | Aug 26 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **PathAI** | [Clinical Trial Associate](https://trylitos.com/job/51861035-3412-4504-a276-1b5707ae24f3?utm_source=github&utm_campaign=clinical-entry-cta) | Boston, MA or Remote |  | Oct 2 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Kura Oncology** | [Clinical Trial Associate](https://trylitos.com/job/e2997138-ffbd-4b61-985a-122c49656eb1?utm_source=github&utm_campaign=clinical-entry-cta) | Boston, MA |  | Sep 30 |  |
-| **Premier Research** | [In-House Clinical Research Associate II, Sponsor-Dedicated (Contract)](https://trylitos.com/job/7dafe91b-5295-45e5-a76f-464d4f5a5b33?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | United States of America |  | Oct 14 |  |
 | **ICON plc** | [Clinical Research Associate](https://trylitos.com/job/9ceaa571-3446-4c88-a7c7-a1abd9a0a6b2?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Belgium, Mechelen; Brazil, Sao Paulo; Bulgari |  | Oct 14 |  |
-| **ICON plc** | [Clinical Research Associate II](https://trylitos.com/job/a545bb4b-5d88-47dc-b13b-b4da61812dd6?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Chicago, IL; Chicago, IL; Illinois; China, Be |  | Oct 13 |  |
 | **IQVIA** | [Clinical Research Associate - Sponsor Dedicated](https://trylitos.com/job/1c40c259-b8db-4d8b-b3c2-74cb1f358945?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Overland Park, KS, United States of America; |  | Oct 12 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **IQVIA** | [Oncology Clinical Research Associate (CRA 2), Sponsor Dedicated](https://trylitos.com/job/7d23ca8a-5a5d-409e-89f4-95706db7282b?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Overland Park, KS, United States of America; |  | Oct 8 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Pfizer** | [Clinical Research Associate](https://trylitos.com/job/310f1725-da6d-4bad-ab5b-93410df9203e?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | United States - New York - New York City; Uni |  | Oct 8 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **St. Jude** | [Clinical Research Associate II - PBS Division, Cognitive Neuroscience](https://trylitos.com/job/d5d5bd81-1671-4394-b6fa-d3d8f9784660?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Memphis, TN |  | Oct 8 |  |
-| **St. Jude** | [Clinical Research Associate II - Division, Cognitive Neuroscience](https://trylitos.com/job/54886c60-9a2b-4755-916d-5dc89372e861?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Memphis, TN |  | Oct 8 |  |
 | **Globus Medical** | [Clinical Research Associate](https://trylitos.com/job/af62b8ee-ddf8-4b4c-8532-f83e6c05c8d6?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Audubon, PA |  | Oct 8 |  |
 | **Danaher** | [Clinical Research Associate (CRA)](https://trylitos.com/job/6e539923-998d-4679-8c08-526642ea5103?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Austin, Texas, United States |  | Oct 5 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Elanco** | [Clinical Research Associate (CRA) - Animal Health](https://trylitos.com/job/ca117393-20a3-466a-8068-f0c91836b776?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Indianapolis, IN |  | Oct 5 |  |
@@ -136,9 +131,7 @@ Click a role to open it, with the employer's own application link. Spreadsheet v
 | **Syneos Health** | [Experienced Clinical Research Associate - Sponsor Dedicated](https://trylitos.com/job/17122ee6-8ba3-4b93-8680-593045fd3907?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | Sep 30 |  |
 | **Syneos Health** | [Clinical Research Associate - Full-Service](https://trylitos.com/job/01bc0104-59da-4af5-b2d0-939ae06cbe2c?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | USA-NC-Remote; USA-RI-Remote; USA-ME-Remote; |  | Sep 30 |  |
 | **Bristol Myers Squibb** | [Clinical Research Associate- San Antonio / South-Central Texas Region](https://trylitos.com/job/94fc0bd5-622f-4e2e-ac94-073597b56de5?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Houston - TX - US; Austin - TX - US; San Anto |  | Sep 17 |  |
-| **Worldwide Clinical Trials** | [In-house Clinical Research Associate II - Oncology](https://trylitos.com/job/239627f9-f6d4-406d-865b-0057a449803d?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Virtual United States North Carolina |  | Sep 16 |  |
 | **Allucent** | [Clinical Research Associate](https://trylitos.com/job/a3a22b0b-ffff-4e7b-8ac4-eff814a4bf56?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | United States |  | Oct 2 |  |
-| **Inspire Medical Systems Inc.** | [Clinical Research Associate II](https://trylitos.com/job/d30c8801-ff74-48e7-8617-54b847ced9c6?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Minneapolis, MN | USD 95,000 to 125,000 per year | Sep 30 |  |
 | **CTTX Health** | [Clinical Research Associate](https://trylitos.com/job/7f1eac18-189b-483f-b07e-b3f7a2ea6a9d?utm_source=github&utm_campaign=clinical-entry-in-house-cra) | Cambridge, Massachusetts, United States |  | Oct 29 |  |
 | **Ann & Robert H. Lurie Children's Hospital of Chicago** | [Clinical Research Start Up Specialist](https://trylitos.com/job/86db51d9-3a8b-4e43-8538-b8a88cb198fb?utm_source=github&utm_campaign=clinical-entry-study-start-up) | River North, Chicago, IL |  | Oct 6 |  |
 

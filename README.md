@@ -12,6 +12,7 @@ Every role comes straight from the employer's own job board, picked up by [Litos
 | [Clinical trial assistant (CTA) and study assistant](lists/cta.md) | 12 | 10 |
 | [In-house CRA and CRA I](lists/in-house-cra.md) | 13 | 11 |
 | [Study start-up and site activation](lists/study-start-up.md) | 1 | 1 |
+| [Psychology and behavioral research](lists/psychology-behavioral-research.md) | 6 | 4 |
 
 Click a role to open it, with the employer's own application link. Spreadsheet versions: [csv/](csv/).
 

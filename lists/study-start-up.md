@@ -1,6 +1,6 @@
 # 1 study start-up and site activation roles
 
-**1 roles at 1 companies.** Checked 15 Oct 2026. Study start-up, site activation and site start-up roles.
+**1 roles at 1 companies.** Checked 20 Oct 2026. Study start-up, site activation and site start-up roles.
 
 _Pulled from companies' own job boards and rebuilt every Monday._
 
